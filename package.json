@@ -1,0 +1,22 @@
+{
+  "name": "crm",
+  "version": "0.0.1",
+  "description": "A simple Customer Relations Manager program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnichols08/crm.git"
+  },
+  "keywords": [
+    "crm"
+  ],
+  "author": "Mikey Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnichols08/crm/issues"
+  },
+  "homepage": "https://github.com/mnichols08/crm#readme"
+}
